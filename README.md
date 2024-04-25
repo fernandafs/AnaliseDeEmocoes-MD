@@ -12,7 +12,9 @@
 ## Descrição do Projeto:
 
  O Projeto visa aplicar conhecimentos adquiridos na disciplina de mineração de dados (UFABC), desta forma, caracteriza-se no desenvolvimento de um modelo de Machine Learning capaz de classificar as emoções humanas em imagens. Para isto, fora utilizado um dataset obtido no Kaggle, ao qual é composto por um grande número de imagens rotuladas com diferentes emoções humanas. 
+ 
  O dataset é dividido em conjuntos de treinamento e teste, uma para treinamento do modelo e outra para validação dos resultados, respectivamente.
+ 
  Como resultado final tem-se um modelo de classificação de emoções em tempo real, utilizando a câmera da webcam, além de um modelo que classifica emoções a partir de um vídeo pré estabelecido.
 
 ## Referencias e Tecnologias Utilizadas:
