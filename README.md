@@ -1,4 +1,4 @@
-# Projeto-Analise-de-emocoes (Mineração de Dados)
+# Projeto: Analise de Emoções (Mineração de Dados)
 
 
 ## Integrantes:
