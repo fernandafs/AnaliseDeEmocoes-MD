@@ -13,6 +13,7 @@
 
  O Projeto visa aplicar conhecimentos adquiridos na disciplina de mineração de dados (UFABC), desta forma, caracteriza-se no desenvolvimento de um modelo de Machine Learning capaz de classificar as emoções humanas em imagens. Para isto, fora utilizado um dataset obtido no Kaggle, ao qual é composto por um grande número de imagens rotuladas com diferentes emoções humanas. 
  O dataset é dividido em conjuntos de treinamento e teste, uma para treinamento do modelo e outra para validação dos resultados, respectivamente.
+ Como resultado final tem-se um modelo de classificação de emoções em tempo real, utilizando a câmera da webcam, além de um modelo que classifica emoções a partir de um vídeo pré estabelecido.
 
 ## Referencias e Tecnologias Utilizadas:
 
@@ -35,6 +36,7 @@
 
 ## Como executar o Código:
 
-- instalar bibliotecas presentes no arquivo requirements.txt (pip install -r requirements.txt)
+- Instalar o VS Code com as seguintes extensões: Python, Tensorflow 2.0 Snippets e Tensorflow Snippets.
+- Instalar bibliotecas presentes no arquivo requirements.txt (pip install -r requirements.txt)
 - Executar o programa ResultadoTempoReal.py caso queira executar o código ao qual abre a câmera da webcam para fazer a análise de emoções ao vivo.
-- Executar o programa ResultadoVideo.py caso queira executar o código ao qual abre um vídeo pré-definido (filme_cena.mp4) para fazer a análise de emoções.
+- Executar o programa ResultadoVideo.py caso queira executar o código ao qual abre um vídeo pré-definido (já presente o arquivo filme_cena.mp4) para fazer a análise de emoções.
