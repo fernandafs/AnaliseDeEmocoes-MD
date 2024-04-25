@@ -31,5 +31,10 @@
 - Tunning do hiperparametros, caso necessário.
 - Export da rede neural para que não haja a necessidade de ficar treinando o modelo sempre que for utilizar
 - Export da estrutura em json para que outras pessoas possam se inspirar na arquitetura
+- OBS: todos os arquivos de código possuem comentários sobre cada função
 
 ## Como executar o Código:
+
+- instalar bibliotecas presentes no arquivo requirements.txt (pip install -r requirements.txt)
+- Executar o programa ResultadoTempoReal.py caso queira executar o código ao qual abre a câmera da webcam para fazer a análise de emoções ao vivo.
+- Executar o programa ResultadoVideo.py caso queira executar o código ao qual abre um vídeo pré-definido (filme_cena.mp4) para fazer a análise de emoções.
